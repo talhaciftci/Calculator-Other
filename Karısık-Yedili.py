@@ -202,7 +202,6 @@ class Karisik():
             self.__hataMesaji = "Girilen sayı Negatif olamaz. İşlem İptal ediliyor..."
             raise Exception
 
-
 if __name__ == "__main__":
     Karisik()
     time.sleep(1)
