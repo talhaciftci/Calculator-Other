@@ -90,4 +90,4 @@ class HesapMakinesiIkiSayi():
             print("Yapılan işlem => {}".format(gecmis[len(gecmis)-1]))
         
 if __name__ == "__main__":
-    hm = HesapMakinesiIkiSayi()
+   hm = HesapMakinesiIkiSayi()
